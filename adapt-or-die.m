@@ -1,6 +1,6 @@
 %% AttentionBased-Feedback
-% Felix Meissner, 11th of Dec, 2015
-% felix.meissner@uzh.ch
+% Felix, 11th of Dec, 2015
+% mefelix@ethz.ch
 
 %clear all 
 %close all
